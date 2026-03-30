@@ -14,5 +14,4 @@
 
 
 ## 🔗 Ссылки
-- Leetcode: https://leetcode.com/u/MVA54/
 - Telegram: https://t.me/sadguyfree/
